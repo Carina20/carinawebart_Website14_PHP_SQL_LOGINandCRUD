@@ -1,0 +1,114 @@
+#Welcome_field {
+	float: left;
+	margin-left:10px;
+	font-size: 14pt;
+}
+
+#Signout_field {
+	position: absolute;
+	right: 20px;
+	font-weight: bold;
+}
+
+nav {
+	background-color: rgb(255,80,80);
+}
+
+fieldset {
+	color: purple;
+}
+
+#home {
+	color: rgb(154,0,154);
+}
+
+
+.main_container {
+	background: url(img_website14/background.jpeg);
+	padding-top: 40px;
+	padding-bottom: 30px;
+}
+
+#img_div {
+	padding-left: 30px;
+}
+
+
+
+h5 {
+	color: rgb(154,0,154);
+}
+
+#footer_div1 {
+	background-color: rgb(255,80,80);
+	height:50px;
+}
+
+#footer_div2 {
+	background-color: rgb(255,80,80);
+	height:70px;
+}
+
+.footer_logo {
+	color: rgb(154,0,154);
+	font-size:12pt;
+	font-weight: bold;
+	text-align: center;
+	padding-top:20px;
+}
+
+
+
+.container_register {
+	background-color: rgb(255,255,171);
+}
+
+#h2_register {
+	color: green;
+}
+
+#register_form {
+	padding-top:50px;
+}
+
+.row_register {
+	height: 400px;
+	padding-top:20px;
+}
+
+.row2_register {
+	background-color: rgb(51,204,51);
+	height: 100px;
+}
+
+#link_SignIn {
+	color: green;
+}
+
+.container_login {
+	background-color: rgb(255,255,171);
+}
+
+.row_login {
+	height: 400px;
+	padding-top:20px;
+}
+
+#h2_SignIn {
+	color: green;
+}
+
+.row2_login {
+	background-color: rgb(51,204,51);
+	height: 100px;
+}
+
+#link_login_index {
+	color: green;
+}
+
+
+#map {
+	height: 45%;
+	width:45%;
+}
